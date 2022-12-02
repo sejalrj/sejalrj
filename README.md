@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sejal Jagtap( @sejalrj )
-- 👀 I love to(or I try to :p) design optimum performing algorithms and implementing software solutions( web/ AI/ web + AI).
-- 💻 Former SDE at Fidelity National Information Services
+- 🌱 Computer Science from New York University, NY, USA
 - 🖥️ Former Senior Associate at HSBC Bank (Synechron) 
-- 🌱 I’m currently pursuing master's in Computer Science from New York University, NY, USA
+- 💻 Former SDE at Fidelity National Information Services
+- 👀 I love to design optimum performing algorithms and implementing software solutions( web/ AI/ web + AI).
 - 📫 How to reach me ... Email: sj3251@nyu.edu / sejalrjagtap@gmail.com | LinkedIn: linkedin.com/in/sejalrj/
 
 <!---
