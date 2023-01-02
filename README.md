@@ -9,5 +9,6 @@ sejalrj/sejalrj is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sejalrj&show_icons=true) -->
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalrj&theme=blue-green)
+<!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sejalrj&theme=blue-green) -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=sejalrj)
 
