@@ -27,7 +27,9 @@ You can click the Preview link to take a look at your changes.
 ✨ Tech I Speak:
 
 Python, C++, Java, SQL (The linguistics)
+
 Django, Flask, React, Selenium, Spark (The frameworks)
+
 AWS, Git, Jenkins, Tableau (The toolbox)
 
 🔗 Find me around the web:
