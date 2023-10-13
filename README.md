@@ -39,3 +39,6 @@ My life in code on [GitHub](https://github.com/sejalrj)
 Projects and ponderings on my [portfolio](https://sejalrj.github.io/sejaljagtap)
 
 📬 Let's connect, collaborate, and create!
+
+![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejalrj&show_icons=true)
+
