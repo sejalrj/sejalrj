@@ -29,9 +29,11 @@ You can click the Preview link to take a look at your changes.
 Python, C++, Java, SQL (The linguistics)
 Django, Flask, React, Selenium, Spark (The frameworks)
 AWS, Git, Jenkins, Tableau (The toolbox)
+
 🔗 Find me around the web:
 
-Sharing updates on LinkedIn
-My life in code on GitHub
-Projects and ponderings on my portfolio
+Sharing updates on [LinkedIn](https://www.linkedin.com/in/sejalrj)
+My life in code on [GitHub](https://github.com/sejalrj)
+Projects and ponderings on my [portfolio](https://sejalrj.github.io/sejaljagtap)
+
 📬 Let's connect, collaborate, and create!
