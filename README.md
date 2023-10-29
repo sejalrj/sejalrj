@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 🚀 I'm a passionate Software Engineer who loves turning ideas into code and challenges into solutions. Currently mastering the art of Computer Science at New York University, I've dived deep into the world of tech, from kickstarting automation processes at hedge funds like Capstone to enhancing financial systems at Europe's finance giant, HSBC.
 
-💻 Coding is my forte, and Python is my playground. I'm all about Django for web apps, Flask for those nifty projects, and React for interactive UIs. Big fan of clean, efficient code (Python 3 > Python 2), and yes, I've migrated thousands of lines to prove it!
+💻 I love coding. I'm all about Python, Django for web apps, Flask for those nifty projects, and React for interactive UIs. Big fan of clean, efficient code (Python 3 > Python 2), and yes, I've migrated thousands of lines to prove it!
 
 🔎 I'm not just about code, though. I've got a knack for dissecting data—big data. My projects range from crafting serverless job recommendation systems on AWS to unraveling loan applicant trends using Pyspark and Streamlit.
 
