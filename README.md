@@ -14,17 +14,12 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Your Repository's Stats](https://contrib.rocks/image?repo=sejalrj/Python) -->
 
 
-👋 Hey there, I'm Sejal Jagtap!
+Hey there, I'm Sejal Jagtap!
 
-🚀 I'm a passionate Software Engineer who loves turning ideas into code and challenges into solutions. Currently mastering the art of Computer Science at New York University, I've dived deep into the world of tech, from kickstarting automation processes at hedge funds like Capstone to enhancing financial systems at Europe's finance giant, HSBC.
+A passionate Software Engineer who loves turning ideas into code and challenges into solutions. Currently mastering the art of Computer Science at New York University, I've dived deep into the world of tech, from kickstarting automation processes at hedge funds like Capstone to enhancing financial systems at Europe's finance giant, HSBC.
 
-💻 I love coding. I'm all about Python, Django for web apps, Flask for those nifty projects, and React for interactive UIs. Big fan of clean, efficient code (Python 3 > Python 2), and yes, I've migrated thousands of lines to prove it!
 
-🔎 I'm not just about code, though. I've got a knack for dissecting data—big data. My projects range from crafting serverless job recommendation systems on AWS to unraveling loan applicant trends using Pyspark and Streamlit.
-
-🌱 I believe in growth, learning, and sharing knowledge. That's why you might find me guest lecturing at NYU or leading cultural org teams to victory in stage art competitions. Life's about the experiences, right?
-
-✨ Tech I Speak:
+Tech I Speak:
 
 Python, C++, Java, SQL (The linguistics)
 
@@ -32,7 +27,7 @@ Django, Flask, React, Selenium, Spark (The frameworks)
 
 AWS, Git, Jenkins, Tableau (The toolbox)
 
-🔗 Find me around the web:
+Find me around the web:
 
 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sejalrj)
 My life in code on [GitHub](https://github.com/sejalrj)
