@@ -35,7 +35,7 @@ Projects and ponderings on my [portfolio](https://sejalrj.github.io/sejaljagtap)
 
 📬 Let's connect, collaborate, and create!
 
-<!--![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejalrj&show_icons=true)-->
+![Sejal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejalrj&show_icons=true)
 
 [![@sejalrj's Holopin board](https://holopin.me/sejalrj)](https://holopin.io/@sejalrj)
 
