@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI1aGZiajdrMW5kdjR3N21zcWYwZXZnemg4cG5keXNnd2g2dWNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ruIFrswh9TgK7joLW2/giphy.gif" width="28">
 </h2>
 <p align="center">
-    <a href="https://github.com/VivekBits2210/VivekBits2210"><img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Welcome+to+Sejal's+profile!;Graduate+student+at+NYU;Intermediate+Python+developer;Part+time+drama+artist;Love+playing+one+chord+songs+on+guitar;;);"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3C&lines=Welcome+to+Sejal's+profile!%3CGraduate+Student+at+NYU%3CIntermediate+Python+Developer%3CPart+time+drama+artist%3CLove+playing+one+chord+songs+on+guitar+;)" alt="Typing SVG" /></a>
 </p>
 
 
