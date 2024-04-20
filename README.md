@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI1aGZiajdrMW5kdjR3N21zcWYwZXZnemg4cG5keXNnd2g2dWNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ruIFrswh9TgK7joLW2/giphy.gif" width="28">
 </h2>
 <p align="center">
-    <a href="https://github.com/VivekBits2210/VivekBits2210"><img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Welcome+to+Sejal's+profile!;Graduate+student+at+NYU;Intermediate+Python+developer;Part+time+drama+artist;Love+playing+one+chord+songs+on+guitar+;);"></a>
+    <a href="https://github.com/VivekBits2210/VivekBits2210"><img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Welcome+to+Sejal's+profile!;Graduate+student+at+NYU;Intermediate+Python+developer;Part+time+drama+artist;Love+playing+one+chord+songs+on+guitar;;);"></a>
 </p>
 
 
