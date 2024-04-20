@@ -14,9 +14,16 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Your Repository's Stats](https://contrib.rocks/image?repo=sejalrj/Python) -->
 
 
-Hey there, I'm Sejal Jagtap!
 
-A passionate Software Engineer who loves turning ideas into code and challenges into solutions. Currently mastering the art of Computer Science at New York University, I've dived deep into the world of tech, from kickstarting automation processes at hedge funds like Capstone to enhancing financial systems at Europe's finance giant, HSBC.
+<!--A passionate Software Engineer who loves turning ideas into code and challenges into solutions. Currently mastering the art of Computer Science at New York University, I've dived deep into the world of tech, from kickstarting automation processes at hedge funds like Capstone to enhancing financial systems at Europe's finance giant, HSBC. -->
+<h2 align="center">
+  Hey there! Welcome to my GitHub!
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI1aGZiajdrMW5kdjR3N21zcWYwZXZnemg4cG5keXNnd2g2dWNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ruIFrswh9TgK7joLW2/giphy.gif" width="28">
+</h2>
+<p align="center">
+    <a href="https://github.com/VivekBits2210/VivekBits2210"><img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Welcome+to+Sejal's+profile!;Graduate+student+at+NYU;Intermediate+Python+developer;Part+time+drama+artist;Love+playing+one+chord+songs+on+guitar+;);"></a>
+</p>
+
 
 
 Tech I Speak:
@@ -31,7 +38,7 @@ Find me around the web:
 
 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sejalrj)
 My life in code on [GitHub](https://github.com/sejalrj)
-Projects and ponderings on my [portfolio](https://sejalrj.github.io/sejaljagtap)
+Projects and ponderings on my [portfolio](https://sejalrj.github.io/sejal)
 
 📬 Let's connect, collaborate, and create!
 
