@@ -44,8 +44,7 @@ Other    	                    AWS, GraphQL, REST API, Debugging, JIRA, Design Pa
                               Leadership, Agile Software Development
 
                               
-Certification                 AWS Certified Solutions Architect Associate (SAA-03) (show credential)
-![image](https://github.com/sejalrj/sejalrj/assets/18536150/f55be4a0-ca47-4cf4-9a67-f1ced3716417)
+Certification                 AWS Certified Solutions Architect Associate (SAA-03) (show credential)![image](https://github.com/sejalrj/sejalrj/assets/18536150/f55be4a0-ca47-4cf4-9a67-f1ced3716417)
 
 
 Find me around the web:
