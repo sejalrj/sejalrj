@@ -26,13 +26,15 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Tech I Speak:
+Programming Languages	        Python 2.7+, Python 3, C++, Java, JavaScript
+Databases	                    PostgreSQL, MSSQL, MongoDB, DynamoDB, Snowflake
+Frameworks\Libraries	        React.js, Pyspark, Django, Flask, Plotly-Dash
+Platforms\Tools	              Git, Jenkins, Terraform, Docker, Tableau, Datadog, Linux, Windows, Visual Studio
+Other    	                    AWS, GraphQL, REST API, Debugging, JIRA, Design Patterns, Multithreading, Object Oriented Design, Data Modeling and Optimization, 
+                              Leadership, Agile Software Development
+Certification                 AWS Certified Solutions Architect Associate (SAA-03) (show credential)
+![image](https://github.com/sejalrj/sejalrj/assets/18536150/f55be4a0-ca47-4cf4-9a67-f1ced3716417)
 
-Python, C++, Java, SQL (The linguistics)
-
-Django, Flask, React, Selenium, Spark (The frameworks)
-
-AWS, Git, Jenkins, Tableau (The toolbox)
 
 Find me around the web:
 
