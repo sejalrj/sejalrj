@@ -28,22 +28,24 @@ You can click the Preview link to take a look at your changes.
 SKILLS AND CERTIFICATION
   
 
-Programming Languages	        Python 2.7+, Python 3, C++, Java, JavaScript
+Programming Languages	Python, C, C++, JavaScript
 
 
-Databases	                    PostgreSQL, MSSQL, MongoDB, DynamoDB, Snowflake
+DevOps Tools	Jenkins, Gitlab, GitHub Actions, Docker, Kubernetes, Terraform, Chef, Puppet, Buildbot
 
 
-Frameworks\Libraries	        React.js, Pyspark, Django, Flask, Plotly-Dash
+Cloud Platforms	AWS (SageMaker, S3, EC2, ECS, EKS), GCP, Azure
 
 
-Platforms\Tools	              Git, Jenkins, Terraform, Docker, Tableau, Datadog, Linux, Windows, Visual Studio
+Frameworks\Libraries	REST, Django, Flask, PyTorch, Tensorflow
 
 
-Other    	                    AWS, GraphQL, REST API, Debugging, JIRA, Design Patterns, Multithreading, Object Oriented Design, Data Modeling and Optimization, 
-                              Leadership, Agile Software Development
+Databases	PostgreSQL, Microsoft SQL Server, Oracle, Redshift, MongoDB, DynamoDB
 
-                              
+
+Other	Agile Methodologies, Distributed Systems, Object Oriented Design, Automated Testing, TDD, Debugging, Design Patterns, Leadership, Data Modeling
+
+                           
 Certification                 AWS Certified Solutions Architect Associate (SAA-03)[show credential](https://github.com/sejalrj/sejalrj/assets/18536150/f55be4a0-ca47-4cf4-9a67-f1ced3716417)
 
 
