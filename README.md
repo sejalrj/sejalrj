@@ -53,7 +53,7 @@ Find me around the web:
 
 Sharing updates on [LinkedIn](https://www.linkedin.com/in/sejalrj)
 My life in code on [GitHub](https://github.com/sejalrj)
-Projects and ponderings on my [portfolio](https://sejalrj.github.io/sejal)
+<!-- Projects and ponderings on my [portfolio](https://sejalrj.github.io/sejal) -->
 
 📬 Let's connect, collaborate, and create!
 
