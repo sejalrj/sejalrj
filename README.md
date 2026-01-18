@@ -61,3 +61,4 @@ My life in code on [GitHub](https://github.com/sejalrj)
 
 [![@sejalrj's Holopin board](https://holopin.me/sejalrj)](https://holopin.io/@sejalrj)
 
+![](https://komarev.com/ghpvc/?username=sejalrj)
