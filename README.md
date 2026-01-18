@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <!--A passionate Software Engineer who loves turning ideas into code and challenges into solutions. Currently mastering the art of Computer Science at New York University, I've dived deep into the world of tech, from kickstarting automation processes at hedge funds like Capstone to enhancing financial systems at Europe's finance giant, HSBC. -->
 <h2 align="center">
   Hey there! Welcome to my GitHub!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI1aGZiajdrMW5kdjR3N21zcWYwZXZnemg4cG5keXNnd2g2dWNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ruIFrswh9TgK7joLW2/giphy.gif" width="28">
+  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHI1aGZiajdrMW5kdjR3N21zcWYwZXZnemg4cG5keXNnd2g2dWNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ruIFrswh9TgK7joLW2/giphy.gif" width="28"> -->
 </h2>
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3C&lines=Welcome+to+Sejal's+profile!%3CIntermediate+Python+Developer%3CPart+time+drama+artist%3CLove+playing+one+chord+songs+on+guitar+;)" alt="Typing SVG" /></a>
