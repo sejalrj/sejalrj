@@ -24,26 +24,13 @@ You can click the Preview link to take a look at your changes.
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&separator=%3C&lines=Welcome+to+Sejal's+profile!%3CIntermediate+Python+Developer%3CPart+time+drama+artist%3CLove+playing+one+chord+songs+on+guitar+;)" alt="Typing SVG" /></a> -->
 </p>
 
-
-SKILLS AND CERTIFICATION
-  
-
-Programming Languages	Python, C, C++, JavaScript
-
-
-DevOps Tools	Jenkins, Gitlab, GitHub Actions, Docker, Kubernetes, Terraform, Chef, Puppet, Buildbot
-
-
-Cloud Platforms	AWS (SageMaker, S3, EC2, ECS, EKS), GCP, Azure
-
-
-Frameworks\Libraries	REST, Django, Flask, PyTorch, Tensorflow
-
-
-Databases	PostgreSQL, Microsoft SQL Server, Oracle, Redshift, MongoDB, DynamoDB
-
-
-Other	Agile Methodologies, Distributed Systems, Object Oriented Design, Automated Testing, TDD, Debugging, Design Patterns, Leadership, Data Modeling
+<p>
+Programming Languages	Python, C, C++, JavaScript <br>
+Cloud Platforms	AWS (SageMaker, S3, EC2, ECS, EKS), GCP, Azure<br>
+Frameworks\Libraries	REST, Django, Flask, PyTorch, Tensorflow<br>
+Databases	PostgreSQL, Microsoft SQL Server, Oracle, Redshift, MongoDB, DynamoDB<br>
+DevOps Tools	Jenkins, Gitlab, GitHub Actions, Docker, Kubernetes, Buildbot<br>
+Distributed Systems, Object Oriented Design, Data Modeling, Automated Testing<br>
 
                            
 Certification                 AWS Certified Solutions Architect Associate (SAA-03)[show credential](https://github.com/sejalrj/sejalrj/assets/18536150/f55be4a0-ca47-4cf4-9a67-f1ced3716417)
@@ -62,3 +49,4 @@ My life in code on [GitHub](https://github.com/sejalrj)
 [![@sejalrj's Holopin board](https://holopin.me/sejalrj)](https://holopin.io/@sejalrj)
 
 ![](https://komarev.com/ghpvc/?username=sejalrj)
+</p>
